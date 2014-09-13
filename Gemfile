@@ -12,6 +12,8 @@ gem 'spring', group: :development
 # bundle exec rake doc:rails generates the API under doc/api.
 gem 'sdoc', '~> 0.4.0', group: :doc
 
+# ember = v1.8.0-beta.1
+# ember-data = v1.0.0-beta.9
 gem 'ember-rails'
 gem 'ember-source'
 gem 'emblem-rails'
