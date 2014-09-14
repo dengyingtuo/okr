@@ -17,3 +17,4 @@ gem 'sdoc', '~> 0.4.0', group: :doc
 gem 'ember-rails'
 gem 'ember-source'
 gem 'emblem-rails'
+gem 'ffaker'
