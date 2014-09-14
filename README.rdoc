@@ -1,28 +1,17 @@
-== README
+== OKR Tool
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+A small app for setting up objectives for individuals or teams and corresponding measurable and actionable key results. Also track them, see reports and take corrective actions, give feedbacks etc.
 
-Things you may want to cover:
+A lot of work is still in progress.
 
-* Ruby version
+Keep checking this page for more updates.
 
-* System dependencies
+= Stack
+* Rails for backend API
+* EmberJS as front-end JS framework
+* coffeescript as the JS engine
+* emblem as the templating engine for EmberJS
+* postgresql
 
-* Configuration
+Instructions for making it up and running coming soon..
 
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
-
-
-Please feel free to use a different markup language if you do not plan to run
-<tt>rake doc:app</tt>.
