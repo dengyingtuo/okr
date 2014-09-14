@@ -1,7 +1,6 @@
-# For more information see: http://emberjs.com/guides/routing/
-
-App.Router.map ()->
-  # @resource('posts')
+App.Router.map ->
+  @resource 'users', path: '/', ->
+    @resource 'user', path: '/users/:id'
 
 App.Router.reopen
   location: 'auto'

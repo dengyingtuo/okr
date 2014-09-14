@@ -1,0 +1,8 @@
+article#leads
+  h1 Users
+  ul
+    each user in controller
+      link-to 'user' user tagName="li"
+        user.fullName
+
+outlet
