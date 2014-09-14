@@ -1,4 +1,4 @@
-== OKR Tool
+= OKR Tool
 
 A small app for setting up objectives for individuals or teams and corresponding measurable and actionable key results. Also track them, see reports and take corrective actions, give feedbacks etc.
 
@@ -6,7 +6,7 @@ A lot of work is still in progress.
 
 Keep checking this page for more updates.
 
-= Stack
+=== Stack
 * Rails for backend API
 * EmberJS as front-end JS framework
 * coffeescript as the JS engine
