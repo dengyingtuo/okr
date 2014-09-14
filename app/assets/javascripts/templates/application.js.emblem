@@ -1,2 +1,10 @@
-h1 OKR Tool Home Page
-outlet
+header
+  article
+    .logo
+      h1
+        a href="#" OKR App
+
+section#main
+  = outlet
+
+footer
